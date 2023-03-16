@@ -32,5 +32,8 @@ Als laatst moet het programma het aangeven als bij het gegeven kenteken geen inf
 
 Het grootste probleem bij dit project was toch de tkinter lib. Het duurde best lang voordat ik erachter kwam hoe grid en pack niet met elkaar werkten.
 Ook kwam ik niet verder met het verwijderen van data uit tabs. Ik heb uiteindelijk een oplossing gevonden door simpele apps te maken in een andere file
-en daar manieren uit te proberen. Verder as dit project best soepel gegaan.
+en daar manieren uit te proberen. Verder is dit project best soepel gegaan.
+
+# Bijlage
+
 
