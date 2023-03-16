@@ -9,7 +9,6 @@ Python v3.9.13
  * Werken met API's
  * Het maken van een GUI met python
  * Herhalen van de 'docx' library
- * 
  
 
 # Gebruikte files
