@@ -36,4 +36,13 @@ en daar manieren uit te proberen. Verder is dit project best soepel gegaan.
 
 # Bijlage
 
+![example_screen](https://user-images.githubusercontent.com/107985687/225565690-ef2d5e44-40e9-43bd-a302-3163cbfbe1a6.png)
+^ voorbeeld van de app met data erin
+
+
+![example_word](https://user-images.githubusercontent.com/107985687/225567514-3f2c1ca0-c148-4b79-a278-af1f90da01ed.png)
+
+^ Example van word bestand export
+
+
 
